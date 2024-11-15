@@ -1,0 +1,14 @@
+timestamp,location,incident_type,description,traffic_impact
+2024-11-01 08:15,Main St,Accident,Two-car collision,High
+2024-11-01 08:30,Main St,Construction,Construction blocking lane,Moderate
+2024-11-01 08:45,Main St,Accident,Pedestrian hit by vehicle,High
+2024-11-01 09:00,Port B,Accident,Truck breakdown,Moderate
+2024-11-01 09:15,Warehouse A,Construction,Construction near entrance,Low
+2024-11-01 09:30,Port A,Accident,Single-car crash,High
+2024-11-01 09:45,Warehouse D,Incident,Forklift malfunction,Low
+2024-11-01 10:00,Warehouse C,Construction,Repaving near exit,Moderate
+2024-11-01 10:15,Port D,Accident,Multiple-vehicle crash,High
+2024-11-01 10:30,Main St,Weather,Heavy rain affecting visibility,Moderate
+2024-11-01 10:45,Port A,Construction,Detour in place for roadwork,Moderate
+2024-11-01 11:00,Warehouse B,Accident,Cargo truck flipped over,High
+2024-11-01 11:15,Port C,Incident,Gas leak near loading area,Low

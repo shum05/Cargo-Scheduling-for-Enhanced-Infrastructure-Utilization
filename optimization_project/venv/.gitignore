@@ -1,0 +1,42 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment directories
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Unit test / coverage reports
+coverage/
+*.coveragerc
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store         # macOS
+Thumbs.db         # Windows
+
+# Python package distribution directories
+build/
+dist/
+*.egg-info/
+
+# Environment variable files
+.env
+.env.*
+
+# Sensitive data
+*.key
+*.pem
+*.crt

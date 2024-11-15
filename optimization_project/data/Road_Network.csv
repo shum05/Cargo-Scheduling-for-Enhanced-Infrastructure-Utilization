@@ -1,0 +1,15 @@
+start_location,end_location,road_type,estimated_travel_time_mins,distance_km
+Main St,Port A,Highway,15,20
+Main St,Port B,Main Road,10,15
+Port A,Warehouse A,Main Road,12,18
+Port B,Warehouse B,Highway,20,25
+Warehouse A,Warehouse B,Secondary Road,30,35
+Port A,Warehouse C,Main Road,25,30
+Port B,Warehouse D,Secondary Road,40,45
+Warehouse C,Port D,Highway,20,22
+Warehouse D,Port A,Secondary Road,35,40
+Warehouse B,Warehouse C,Highway,22,28
+Port D,Warehouse A,Highway,18,22
+Warehouse A,Warehouse D,Main Road,25,30
+Port C,Port B,Main Road,15,18
+Warehouse C,Port C,Secondary Road,20,25

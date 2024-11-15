@@ -1,0 +1,11 @@
+cargo_id,origin,destination,schedule_time,priority
+1234,Warehouse A,Port B,2024-11-01 10:00,High
+1235,Warehouse B,Port C,2024-11-01 11:30,Medium
+1236,Warehouse A,Port D,2024-11-01 12:00,Low
+1237,Warehouse C,Port A,2024-11-01 13:15,High
+1238,Warehouse D,Port B,2024-11-01 14:30,Low
+1239,Warehouse B,Port D,2024-11-01 15:00,Medium
+1240,Warehouse A,Port C,2024-11-01 16:45,High
+1241,Warehouse C,Port B,2024-11-01 17:30,Medium
+1242,Warehouse D,Port A,2024-11-01 18:00,Low
+1243,Warehouse A,Port D,2024-11-01 19:15,High
